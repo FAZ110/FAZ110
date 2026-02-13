@@ -9,7 +9,7 @@ I am currently a **3rd-year Computer Science student** at **AGH University of Kr
 * 🔭 **Focus:** I specialize in **Frontend** development and I'm expanding my expertise into **Full-Stack** architectures.
 * 🎓 **Current Goal:** Completing my engineering degree while building high-quality side projects.
 * ✉️  Reach me at: **jan.dylag@gmail.com**
-* 📄  [LinkedIn Profile](https://www.linkedin.com/in/jan-dyląg-472336365/)
+* 📄  [LinkedIn Profile](www.linkedin.com/in/jan-dylag123)
 
 ---
 
