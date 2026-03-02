@@ -1,5 +1,5 @@
 # Hi, I'm Jan Dyląg 👋
-### CS Student @ AGH University of Krakow | Frontend & Full-Stack Enthusiast
+### CS Student @ AGH University of Krakow
 
 ---
 
